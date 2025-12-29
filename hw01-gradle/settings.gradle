@@ -1,1 +1,116 @@
 rootProject.name = 'JavaDeveloperProfessional'
+
+include 'hw01-gradle'
+include 'le01-gradle'
+
+include 'le02-gradle'
+include 'le02-gradle-lib-api'
+
+include 'le03-qa'
+
+include 'le04-generics'
+include 'hw02-generics'
+
+include 'le05-collections'
+
+include 'le06-annotations'
+include 'hw03-reflection'
+
+include 'le08-gc:demo'
+include 'le08-gc:homework'
+include 'hw04-gc'
+
+include 'le09-docker'
+
+include 'le10-byte-code'
+include 'hw05-aop'
+
+include 'le11-functional'
+
+include 'le12-solid'
+include 'hw06-solid'
+
+include 'le13-behavioralPatterns'
+
+include 'le14-creationalPatterns'
+
+include 'le15-structuralPatterns:demo'
+include 'le15-structuralPatterns:homework'
+include 'hw07-patterns'
+
+include 'le16-io-streams:demo'
+include 'le16-io-streams:homework'
+include 'hw08-serialization'
+
+include 'le17-nio-loggining'
+
+include 'le18-jdbc:demo'
+include 'le18-jdbc:homework'
+include 'hw09-jdbc'
+
+include 'le19-rdbms'
+
+include 'le20-hibernate'
+
+include 'le21-jpql:class-demo'
+include 'le21-jpql:homework-template'
+include 'hw10-jpql'
+
+include 'le22-cache'
+include 'hw11-cache'
+
+include 'le23-noSQL:mongo-db-demo'
+include 'le23-noSQL:mongo-db-reactive-demo'
+include 'le23-noSQL:neo4j-demo'
+include 'le23-noSQL:redis-demo'
+include 'le23-noSQL:cassandra-demo'
+
+include 'le24-webserver'
+include 'hw12-servlets'
+
+include 'le25-di:class-demo'
+include 'le25-di:homework-template'
+include 'hw13-di'
+
+include 'le26-springmvc'
+
+include 'le27-websocket:application'
+include 'le27-websocket:messager'
+include 'le27-websocket:messager-starter'
+include 'le27-websocket:websocket'
+
+include 'le28-spring-data-jdbc'
+include 'hw14-spring-boot-crud'
+
+include 'le29-threads'
+
+include 'le30-jmm'
+
+include 'le31-executors'
+include 'hw15-sequence-of-numbers'
+
+include 'le32-concurrent-containers:concurrent-collections'
+include 'le32-concurrent-containers:queue-demo'
+include 'hw16-concurrent-queue'
+
+include 'le33-multiprocess:grpc-demo'
+include 'le33-multiprocess:processes-demo'
+include 'le33-multiprocess:rmi-demo'
+include 'le33-multiprocess:sockets-demo'
+include 'hw17-grpc'
+
+include 'le34-rabbit-mq:allServicesModels'
+include 'le34-rabbit-mq:approvalService'
+include 'le34-rabbit-mq:mainService'
+
+include 'le35-nio'
+
+include 'le36-netty'
+
+include 'le37-webflux:source'
+include 'le37-webflux:processor'
+include 'le37-webflux:client'
+include 'le37-webflux-chat:client-service'
+include 'le37-webflux-chat:datastore-service'
+include 'hw18-webflux:client-service'
+include 'hw18-webflux:datastore-service'
