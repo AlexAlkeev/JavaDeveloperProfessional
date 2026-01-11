@@ -11,11 +11,11 @@ dependencies {
 }
 
 shadowJar {
-    archiveBaseName.set('hw01-gradle')
+    archiveBaseName.set('gradleHelloWorld')
     archiveVersion.set('0.1')
     archiveClassifier.set('')
     manifest {
-        attributes ('Main-Class': 'ru.otus.HelloOtus')
+        attributes 'Main-Class': 'ru.otus.App'
     }
 }
 
